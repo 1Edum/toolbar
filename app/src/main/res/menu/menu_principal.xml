@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home " android:id="@+id/menu_home"/>
+    <item android:title="Alunos" android:id="@+id/menu_alunos"/>
+    <item android:title="Professores" android:id="@+id/menu_professores"/>
+    <item android:title="Turmas" android:id="@+id/menu_turmas"/>
+    <item android:title="Sair" android:id="@+id/menu_sair"/>
+</menu>
